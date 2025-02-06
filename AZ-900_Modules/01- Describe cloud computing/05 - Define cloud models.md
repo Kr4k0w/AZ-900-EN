@@ -28,7 +28,7 @@ Cloud models defines the type of cloud resources, and we have three main:
 |Organizations don’t have complete control over resources and security|Organizations are responsible for hardware maintenance and updates|
 
 
-**Multi-Cloud:*
+**Multi-Cloud:**
 - Involves multiple public cloud providers.
 - Utilizes different features from different providers.
 - Manages resources and security across two or more public cloud environments.
