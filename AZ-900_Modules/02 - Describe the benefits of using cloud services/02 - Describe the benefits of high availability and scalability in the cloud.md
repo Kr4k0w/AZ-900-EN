@@ -14,7 +14,15 @@ When building or deploy a cloud application, two of the biggest considerations a
 Video:
 [Azure SLAs in more detail](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud)
 
-
+- **Scalability in Cloud Computing**: Ability to adjust resources to meet demand.
+    
+- **Benefits of Scalability**: Handle peak traffic by adding resources, and reduce costs by scaling down when demand drops off.
+    
+- **Types of Scaling**:
+    
+    - **Vertical Scaling**: Increasing or decreasing the capabilities of resources (e.g., adding/removing CPUs or RAM).
+        
+    - **Horizontal Scaling**: Adding or subtracting the number of resources (e.g., adding/removing virtual machines or containers).
 
 
 
