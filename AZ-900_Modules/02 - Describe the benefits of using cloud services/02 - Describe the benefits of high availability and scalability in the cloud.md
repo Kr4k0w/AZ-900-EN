@@ -3,6 +3,13 @@
 
 When building or deploy a cloud application, two of the biggest considerations are uptime(avaliability) and the ability to handle demand(scale)
 
-### High availability
-During the deployment of an application, a service, or any IT resources, it's important the resources are available when needed. High availiability focuses on ensuring maximum availability, regardless of disruptions or events that may occur.
+- **Big Considerations in Cloud Applications**: Uptime and the ability to handle demand.
+    
+- **High Availability**: Ensuring that IT resources are available when needed, focusing on maximum availability despite disruptions.
+    
+- **Architecting Solutions**: Account for service availability guarantees. Azure offers uptime guarantees in its SLAs.
+    
+- **Azure SLAs**: These SLAs describe the service availability guarantees.
+
+
 
