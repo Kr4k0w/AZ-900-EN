@@ -1,3 +1,5 @@
+## Describe Platform as a Service
+
 - **Platform as a Service (PaaS)**: A middle ground between IaaS and SaaS.
     
     - **Responsibilities of Cloud Provider**: Maintain physical infrastructure, physical security, internet connection, operating systems, middleware, development tools, and business intelligence services.
