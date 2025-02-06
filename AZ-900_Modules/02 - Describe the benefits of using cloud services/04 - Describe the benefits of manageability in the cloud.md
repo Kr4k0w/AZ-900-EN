@@ -1,4 +1,4 @@
-# Describe the benefits of manageability in the cloud
+## Describe the benefits of manageability in the cloud
 
 - **Manageability in Cloud Computing**: There are two types – Management of the cloud and Management in the cloud.
     
