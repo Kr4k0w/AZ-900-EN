@@ -12,3 +12,4 @@
     - **Cloud Provider**: Responsible for maintaining physical infrastructure and its internet access.
         
     - **User**: Responsible for installation, configuration, patching, updates, and security.
+![[Pasted image 20250206143006.png]]
