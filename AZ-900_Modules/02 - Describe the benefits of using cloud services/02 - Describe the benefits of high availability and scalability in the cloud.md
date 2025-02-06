@@ -11,5 +11,10 @@ When building or deploy a cloud application, two of the biggest considerations a
     
 - **Azure SLAs**: These SLAs describe the service availability guarantees.
 
+Video:
+[Azure SLAs in more detail](https://learn.microsoft.com/en-us/training/modules/describe-benefits-use-cloud-services/2-high-availability-scalability-cloud)
+
+
+
 
 
