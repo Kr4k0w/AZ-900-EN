@@ -6,3 +6,5 @@ https://www.linkedin.com/products/djamgatech-azure-fundamentals-az-900-quizzes-c
 
 https://www.reddit.com/r/AzureCertification/comments/1fbqq0s/passed_az900_with_6_hours_of_prep/?rdt=64623
 https://ankiweb.net/shared/info/1121741533
+
+https://ankiweb.net/shared/info/90249090
