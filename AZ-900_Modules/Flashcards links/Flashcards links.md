@@ -1,3 +1,4 @@
 1. [AZ-900 Thomas Mitchell Flashcards](https://thomasmitchell.net/az-900-flash-cards/)
+2. [AZ-900 Sam Byford ](https://www.brainscape.com/l/dashboard/microsoft-azure-fundamentals-az-900-21476745/decks)
 
 
