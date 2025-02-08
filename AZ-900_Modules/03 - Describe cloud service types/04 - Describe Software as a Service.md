@@ -10,3 +10,13 @@ Services like Gmail for email, Google Docs for document editing, or Netflix for 
 
 **Responsibility in SaaS:**  
 In the SaaS model, the cloud provider is responsible for most of the technical management, including infrastructure, security, maintenance, and updates. You, as the user, are responsible for managing your data within the application, controlling access permissions, and ensuring security through user authentication, such as passwords.
+
+![[Pasted image 20250208031945.png]]
+
+## Scenarios
+
+Some common scenarios for SaaS are:
+
+- Email and messaging.
+- Business productivity applications.
+- Finance and expense tracking.
