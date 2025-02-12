@@ -2,6 +2,7 @@
 
 [What is Microsoft Azure - Video](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/2-what-microsoft-azure)
 
+
 **What does Azure offer?**
 
 Azure is a set of cloud services that helps businesses grow and innovate. It allows you to create, manage, and deploy applications on a global network using the tools you like best. Azure offers:
